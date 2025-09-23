@@ -12,7 +12,7 @@ Seja bem-vindo(a) ao meu GitHub!
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jotavLabs&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&icon_color=F72585" alt="Estatísticas do GitHub" height="220em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jotavLabs&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&icon_color=F72585" alt="Estatísticas do GitHub" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotavLabs&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&icon_color=F72585" alt="Linguagens mais usadas" height="160em"/>
 </div>
 
