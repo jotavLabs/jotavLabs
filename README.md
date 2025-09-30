@@ -5,7 +5,7 @@ Seja bem-vindo(a) ao meu GitHub!
 - 🎓 **Formação**: Curso técnico em Desenvolvimento de Sistemas
 - 🌱 **Aprendendo**: React, SpringBoot, Python
 - 🚀 **Motivado a aprender**: Sempre em busca de aprimorar minhas habilidades e explorar novas tecnologias.
-- 📫 **Como me encontrar**: [João Victor Bento](www.linkedin.com/in/joão-victor-20593433a)
+- 📫 **Como me encontrar**: [João Victor Bento](https://www.linkedin.com/in/joão-victor-20593433a)
 
 
 ---
