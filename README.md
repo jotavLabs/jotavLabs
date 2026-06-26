@@ -18,7 +18,7 @@
 
 | Project | What it is | Stack |
 |---------|-----------|-------|
-| [**⏳ ChronoTask**](https://github.com/jotavLabs/chronotask) | Local-first routine & schedule app for Android — 100% offline, deterministic adaptation engine, hand-written DB migrations and **134 tests**. | TypeScript · React Native · Expo · SQLite |
+| [**⏳ ChronoTask**](https://github.com/jotavLabs/chronotask) | Local-first routine & schedule app for Android — 100% offline, deterministic adaptation engine, versioned DB migrations and **134 tests**. Built in collaboration with [Claude Code](https://claude.com/claude-code). | TypeScript · React Native · Expo · SQLite |
 | [**📰 Newsletter Diária**](https://github.com/jotavLabs/newsletter-diaria) | Daily study newsletter that curates news & papers by interest with the **Claude API** and emails them automatically — runs every morning on GitHub Actions. | Python · Anthropic API · GitHub Actions |
 | [**🎬 Movie Rating Predictor**](https://github.com/jotavLabs/movie-rating-predictor) | Exploratory data analysis and a regression model to estimate IMDb movie ratings. | Python · scikit-learn · pandas |
 
